@@ -4,7 +4,7 @@
 
 To **run** the Project:
 
-python main.py
+```python main.py```
 
 **Note :**
 Python version supported : 3.6.9 or lower
